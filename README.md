@@ -26,8 +26,8 @@ To get started with Capybara+, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/CapybaraPlus.git
-   cd CapybaraPlus
+   git clone https://github.com/mayanksreal/capybot.git
+   cd capybot
 
    
 2. **Install the Google AI Python:**
