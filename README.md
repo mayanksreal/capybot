@@ -1,5 +1,7 @@
 # Capybara+
 
+![Capybara] img.png
+
 **Capybara** is a versatile Discord chatbot powered by Generative AI. It provides support for text, image, videos and other multimedia inputs, centered around help with code. To steer away from monotone chat assistants, bot embodies a playful capybara persona, asking for virtual treats (lush green grass emojis and images) for writing code. 
 This was originally an update to my old discord-py bot from 2019 that worked on if-else checks with a long list of word matching input-output pairs, several parts of which had become obsolete with newer versions.
 
